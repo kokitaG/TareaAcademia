@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361595463729",
+    "project_id": "supabase-e17f5",
+    "storage_bucket": "supabase-e17f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361595463729:android:8959bce7372b5999fbcd10",
+        "android_client_info": {
+          "package_name": "com.example.supabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wyqItFJpLs3vRW3ItZHX676fppJabi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361595463729:android:5ce1f2cd6a088fddfbcd10",
+        "android_client_info": {
+          "package_name": "com.example.tareaacademia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wyqItFJpLs3vRW3ItZHX676fppJabi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
